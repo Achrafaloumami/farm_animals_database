@@ -1,0 +1,9 @@
+train: images/train
+val: images/val
+
+names:
+    0: chevre
+    1: cochon
+    2: mouton
+    3: poulet
+    4: vache
